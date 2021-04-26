@@ -1,0 +1,12 @@
+Hi we did and uld10 on the 25th of april 2021 and we encountered an intresting bug
+
+Description:
+Tank rolled need on tanking sword and the priest won the roll whit disenchant
+
+How to reproduce:
+the tanking sword called Stoneguard droped from Kologarn. Our tank called Sacredgrace rolled need, 
+while i(Khumba) rolled disenchant and our rogue(Modison) rolled greed, what happened is, that instead of Tank winning the sword whit need i won it whit disenchant
+
+How it should work:
+If someone rolls need the game should give it to him instaed of item going for disenchant
+
